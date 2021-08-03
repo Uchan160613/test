@@ -1,2 +1,2 @@
 UCHANLEE
-youngjun
+youngjun(deep learning)
